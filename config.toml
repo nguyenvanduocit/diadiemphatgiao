@@ -4,7 +4,7 @@ Title = "Your site title"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
 custom_css = "/static/css/custom.css"
-
+theme="pickles"
 [params]
   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
@@ -92,7 +92,7 @@ custom_css = "/static/css/custom.css"
   [[related.indices]]
   name  = "tags"
   weight = 100
-  [[related.indices]]
+[[related.indices]]
   name  = "date"
   weight = 10
   pattern = "2017"
