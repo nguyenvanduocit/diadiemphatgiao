@@ -1,6 +1,6 @@
 baseurl = "https://diadiemphatgiao.vn/"
-languageCode = "en-us"
-Title = "Your site title"
+languageCode = "vi-vn"
+Title = "Địa Điểm Phật Giáo"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
 custom_css = "/static/css/custom.css"
@@ -29,13 +29,8 @@ theme="pickles"
   disqus = ""
   # Google Analytics API key.
   ga_api_key = "Your Google Analytics tracking id"
-  author = "Your Name"
-  authorwebsite = "example.com"
-  avatar = "/path/to/avatar"
-  contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Your short bio"
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Short subtitle"
+  subtitle = "Địa điểm và sự kiện Phật Giáo"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
   favicon = "/path/to/favicon"
@@ -54,18 +49,6 @@ theme="pickles"
     identifier = "theme"
     name = "/theme"
     weight = 3
-
-[[menu.main]]
-    parent = "theme"
-    name = "creating-a-new-theme"
-    url = "/posts/creating-a-new-theme"
-    weight = 1
-
-[[menu.main]]
-    parent = "theme"
-    name = "migrate-from-jekyll"
-    url = "/posts/migrate-from-jekyll"
-    weight = 2
 
 [[menu.main]]
     name = "Tags"
