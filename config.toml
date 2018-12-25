@@ -1,4 +1,4 @@
-baseurl = "https://diadiemphatgiao.vn"
+baseurl = "https://diadiemphatgiao.vn/"
 languageCode = "en-us"
 Title = "Your site title"
 # Copyright notice. This is displayer in the footer.
